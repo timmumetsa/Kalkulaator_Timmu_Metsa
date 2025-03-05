@@ -43,7 +43,7 @@ def main(): # Kasutatud main() funktsiooni,et vältida globaalset koodi.
         print("Viga: Palun sisesta ainult täisarvud!")
         return
 
-    kalk = Calc(a, b) # test
+    kalk = Calc(a, b)
 
     while True:
         print("\nValikud:")
